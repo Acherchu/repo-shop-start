@@ -20,8 +20,10 @@ A R.E.P.O. mod that turns the start of every run into a birthday party in the sh
 ## Playing with friends
 Everyone should have the mod. The host's mod does the shop start, the empty shop, P and spawning the Scout. Presents are shared: when anyone presses M, opens a present or eats a slice, everyone with the mod sees it, including the summoning cutscene and the disco.
 
+**Your friends see nothing?** Their mod isn't running. When the shop loads, the host's screen says who has Shop Start running and who doesn't. Everyone needs the same version, and must start R.E.P.O. from Thunderstore Mod Manager / r2modman with **Start modded**. Starting it from Steam runs the game without mods.
+
 ## Install (Thunderstore / r2modman)
-1. Download `ShopStart-1.1.0.zip` from the Releases page.
+1. Download `ShopStart-1.2.0.zip` from the Releases page.
 2. In Thunderstore Mod Manager or r2modman, pick your R.E.P.O. profile, open **Settings > Import local mod** and choose the zip.
 3. Start the game with that profile.
 
