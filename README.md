@@ -18,7 +18,7 @@ A R.E.P.O. mod that turns the start of every run into a birthday party in the sh
   4. **Black**: a bomb floats up and splits into a swarm that flies at everyone except whoever opened it. Everyone is revived and healed afterwards.
   5. **Green**: a portal frame builds itself past the table. Walk in to visit a blocky world high above the shop, with a big red button and a blue boss.
   6. **Charcoal**: the floor round the table cracks and falls away. You drop into a truck outside a haunted house: hunt the ghost with EMF, thermometer, spirit box and UV (keys 7, 8, 9, 0), then guess it in the journal (J).
-  7. **Snowy white**: everyone lands on a beach in front of a huge mountain. Climb it: face rock and press **Space** to grab on, **W A S D** to climb, **Space** to lunge up, **S + Space** to let go. Watch the stamina bar, rest on ledges, light campfires as checkpoints. Giant valuables are stuck all over it, and the mountain is different every time. A light beam on the summit (or the beach) brings you back.
+  7. **Snowy white**: everyone lands on a beach in front of a huge mountain. Climb it: face rock and **left click** to grab on, **W A S D** to climb, **left click** again to lunge up, **Space** to jump off. Watch the stamina bar, rest on ledges, light campfires as checkpoints. Giant valuables are stuck all over it, and the mountain is different every time. A light beam on the summit (or the beach) brings you back.
   8. **Rainbow**: a rainbow arch over the table, and the opener's colours are corrected for red-green colourblindness until the game closes.
 - **P** (host only) loads a different shop.
 
