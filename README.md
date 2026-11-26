@@ -1,9 +1,5 @@
 # Shop Start
 
-![Shop Start](icon.png)
-
-**[Download the latest version](https://github.com/Acherchu/repo-shop-start/releases/latest)**
-
 A R.E.P.O. mod that turns the start of every run into a birthday party in the shop.
 
 ## What it does
@@ -17,8 +13,8 @@ A R.E.P.O. mod that turns the start of every run into a birthday party in the sh
   3. **Pink**: a disco ball floats up and lights the room while "Happy Birthday (Disco Remix)" plays.
   4. **Black**: a bomb floats up and splits into a swarm that flies at everyone except whoever opened it. Everyone is revived and healed afterwards.
   5. **Green**: a portal frame builds itself past the table. Walk in to visit a blocky world high above the shop, with a big red button and a blue boss.
-  6. **Charcoal**: the floor round the table cracks and falls away. You drop into a truck outside a haunted house: hunt the ghost with EMF, thermometer, spirit box and UV (keys 7, 8, 9, 0), then guess it in the journal (J).
-  7. **Snowy white**: everyone lands on a beach in front of a huge mountain. Climb it: face rock and **left click** to grab on, **W A S D** to climb, **left click** again to lunge up, **Space** to jump off. Watch the stamina bar, rest on ledges, light campfires as checkpoints. Giant valuables are stuck all over it, and the mountain is different every time. A light beam on the summit (or the beach) brings you back.
+  6. **Charcoal**: the floor round the table cracks and falls away. You drop into a truck outside a haunted house. Grab tools from the stand at the back of the truck: **thermometer** (hold it: freezing temps), **D.O.T.S. projector** (set it down in the ghost's room), **bag of chips** (set it down: some ghosts eat it), **video camera** (hold it: ghost orbs only show on the camera) and **4 job applications** (hold one and press **E** to burn it: like a smudge stick, it makes a hunting ghost lose you, or stops hunts for 90 s). Find the ghost's 2 clues and guess it in the journal (**J**). The ghost is Duckyy, the Ghogi, Lopeziosto or the Archeghost. When it hunts it searches for you: hide in a wardrobe (every room has one) and shut the door with **E**.
+  7. **Snowy white**: everyone lands on a beach in front of a huge mountain. Climb it: face rock and **left click** to grab on, **W A S D** to climb, **Space** (or left click) to lunge up, **Space** while looking away from the wall to jump off. Watch the stamina bar: bare rock tires you fast, the giant valuables stuck all over it are easier to hold. Rest on ledges, light campfires as checkpoints. The mountain is different every time. A light beam on the summit (or the beach) brings you back.
   8. **Rainbow**: a rainbow arch over the table, and the opener's colours are corrected for red-green colourblindness until the game closes.
 - **P** (host only) loads a different shop.
 
@@ -28,7 +24,7 @@ Everyone should have the mod. The host's mod does the shop start, the empty shop
 **Your friends see nothing?** Their mod isn't running. When the shop loads, the host's screen says who has Shop Start running and who doesn't. Everyone needs the same version, and must start R.E.P.O. from Thunderstore Mod Manager / r2modman with **Start modded**. Starting it from Steam runs the game without mods.
 
 ## Install (Thunderstore / r2modman)
-1. Download `ShopStart-1.6.0.zip` from the Releases page.
+1. Download `ShopStart-1.7.0.zip` from the Releases page.
 2. In Thunderstore Mod Manager or r2modman, pick your R.E.P.O. profile, open **Settings > Import local mod** and choose the zip.
 3. Start the game with that profile.
 
